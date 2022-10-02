@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&family=Pacifico&display=swap');
+
+body{
+	background: url('https://i.ibb.co/zrQpYbb/186670a4-2b2f-43bc-9ee2-9ef78c46866c.jpg');
+	text-align: center;
+	color: #ffffff;
+}
+h2{
+ font-family:'PT Sans Narrow', sans-serif;
+	color: white;
+}
+p{
+	font-family:'PT Sans Narrow', sans-serif;
+}
+i{
+ font-family: 'PT Sans Narrow', sans-serif;
+}
